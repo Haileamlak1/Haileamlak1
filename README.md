@@ -3,7 +3,7 @@
 <p style="font-size: 16px;">
 Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Ethical Hacker, and Developer with a strong passion for building, breaking, and securing systems. My journey in cybersecurity is fueled by curiosity and a drive to create safe and robust digital environments.
 </p>
-<h1 style="line-height: 2.5; margin: 15px;">
+<h1 style="line-height: 2.5; margin: 20px;">
 🚀 About Me
 </h1>
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Ethical Hacker, 
 🎯 Goal: To enhance my skills in ethical hacking and contribute to the cybersecurity community
 </p>
 
-<h1 style="line-height: 2.5; margin: 15px;">
+<h1 style="line-height: 2.5; margin: 20px;">
 🔧 Skills & Tools
 </h1>
 
@@ -31,7 +31,7 @@ Programming Languages: Python, JavaScript, Bash
 Technologies: Web security, Network security, reverse engineering, vulnerability assessment
 </p>
 
-<h1 style="line-height: 1.5; margin: 10px">
+<h1 style="line-height: 1.5; margin: 20px">
 📫 Get in Touch!
 </h1>
 
@@ -41,7 +41,7 @@ Technologies: Web security, Network security, reverse engineering, vulnerability
 💼 <a href="https://www.linkedin.com/in/haileamlak-sahle-80986b269" target="_blank" style="font-size: 16px;">Linkedin</a>
 </p>
 
-<h2 style="font-size: 20px; margin: 15px;">
+<h2 style="font-size: 20px; margin-top: 20px; margin-bottom: 10px;">
 ⚡ Fun Fact:
 </h2>
 
