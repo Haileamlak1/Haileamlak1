@@ -3,6 +3,8 @@
 <p style="font-size: 16px; margin:10px;">
 Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Ethical Hacker, and Developer with a strong passion for building, breaking, and securing systems. My journey in cybersecurity is fueled by curiosity and a drive to create safe and robust digital environments.
 </p>
+  <br>
+  <br>
 <h1 style="line-height: 2.5; margin: 32px;">
 🚀 About Me
 </h1>
