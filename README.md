@@ -1,9 +1,9 @@
-
-<h1 style="color: white; font-weight: bold; margin: 10px;" align="center">👋 Hi, I’m Haileamlak!</h1>
+<div align="center">
+<h1 style="color: white; font-weight: bold; margin: 10px;" >👋 Hi, I’m Haileamlak!</h1>
 <p style="font-size: 16px; margin:10px;">
 Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Ethical Hacker, and Developer with a strong passion for building, breaking, and securing systems. My journey in cybersecurity is fueled by curiosity and a drive to create safe and robust digital environments.
 </p>
-<h1 style="line-height: 2.5; margin: 20px;">
+<h1 style="line-height: 2.5; margin: 24px;">
 🚀 About Me
 </h1>
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Ethical Hacker, 
 🎯 Goal: To enhance my skills in ethical hacking and contribute to the cybersecurity community
 </p>
 
-<h1 style="line-height: 2.5; margin: 20px;">
+<h1 style="line-height: 2.5; margin: 24px;">
 🔧 Skills & Tools
 </h1>
 
@@ -31,7 +31,7 @@ Programming Languages: Python, JavaScript, Bash
 Technologies: Web security, Network security, reverse engineering, vulnerability assessment
 </p>
 
-<h1 style="line-height: 1.5; margin: 20px">
+<h1 style="line-height: 1.5; margin: 24px">
 📫 Get in Touch!
 </h1>
 
@@ -48,3 +48,4 @@ Technologies: Web security, Network security, reverse engineering, vulnerability
 <p style="font-size: 16px;">
 When I’m not debugging or breaking systems, you can find me solving CTF challenges, experimenting with scripts, or learning new techniques to stay ahead in the world of cybersecurity. 😊
 </p>
+</div>
