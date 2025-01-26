@@ -25,9 +25,9 @@ Technologies: Web security, Network security,  reverse engineering, vulnerabilit
 
 
 📫 Get in Touch!
-🌐 Portfolio
-📧 Email
-💼 LinkedIn
+🌐 haileamlak.netlify.app
+📧 haileamlaksahle@gmail.com
+💼 https://www.linkedin.com/in/haileamlak-sahle-80986b269
 
 
 
