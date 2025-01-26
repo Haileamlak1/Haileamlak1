@@ -44,11 +44,12 @@ Technologies: Web security, Network security, vulnerability assessment
 📧 <span style="font-size: 16px;" >haileamlaksahle@gmail.com</span><br>
 💼 <a href="https://www.linkedin.com/in/haileamlak-sahle-80986b269" target="_blank" style="font-size: 16px;">Linkedin</a>
 </p>
-
-<h2 style="font-size: 20px; margin-top: 32px; margin-bottom: 5px;">
+  <br>
+  <br>
+<h2 style="font-size: 20px; margin-top: 32px;">
 ⚡ Fun Fact:
 </h2>
 <p style="font-size: 16px;">
-When I’m not debugging or breaking systems, you can find me solving CTF challenges, experimenting with scripts, or learning new techniques to stay ahead in the world of cybersecurity. 😊
+When I'm not debugging code or exploiting vulnerabilities, you'll find me tackling CTF challenges, experimenting with new scripts, or continuously learning advanced techniques to stay ahead in the ever-evolving world of cybersecurity. 😊
 </p>
 </div>
