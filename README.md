@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Ethical Hacker, 
 
 Programming Languages: Python, JavaScript, Bash
 
-Technologies: Web security, reverse engineering, vulnerability assessment
+Technologies: Web security, Network security,  reverse engineering, vulnerability assessment
 
 
 
