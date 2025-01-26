@@ -20,7 +20,8 @@ Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Ethical Hacker, 
 <p style="font-size: 16px;">
 🎯 Goal: To enhance my skills in ethical hacking and contribute to the cybersecurity community
 </p>
-
+  <br>
+  <br>
 <h1 style="line-height: 2.5; margin: 32px;">
 🔧 Skills & Tools
 </h1>
@@ -30,9 +31,10 @@ Programming Languages: Python, JavaScript, Bash
 </p>
 
 <p style="font-size: 16px;">
-Technologies: Web security, Network security, reverse engineering, vulnerability assessment
+Technologies: Web security, Network security, vulnerability assessment
 </p>
-
+  <br>
+  <br>
 <h1 style="line-height: 1.5; margin: 32px">
 📫 Get in Touch!
 </h1>
@@ -46,7 +48,6 @@ Technologies: Web security, Network security, reverse engineering, vulnerability
 <h2 style="font-size: 20px; margin-top: 32px; margin-bottom: 5px;">
 ⚡ Fun Fact:
 </h2>
-
 <p style="font-size: 16px;">
 When I’m not debugging or breaking systems, you can find me solving CTF challenges, experimenting with scripts, or learning new techniques to stay ahead in the world of cybersecurity. 😊
 </p>
