@@ -1,5 +1,5 @@
 
-<h1 style="color: white; font-weight: bold; text-align: center; margin: 10px;">👋 Hi, I’m Haileamlak!</h1>
+<h1 style="color: white; font-weight: bold; margin: 10px;" align="center">👋 Hi, I’m Haileamlak!</h1>
 <p style="font-size: 16px;">
 Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Ethical Hacker, and Developer with a strong passion for building, breaking, and securing systems. My journey in cybersecurity is fueled by curiosity and a drive to create safe and robust digital environments.
 </p>
