@@ -1,7 +1,7 @@
 <div align="center">
 <h1 style="color: white; font-weight: bold; margin: 10px;" >👋 Hi, I’m Haileamlak!</h1>
 <p style="font-size: 16px; margin:10px;">
-Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Ethical Hacker, and Developer with a strong passion for building, breaking, and securing systems. My journey in cybersecurity is fueled by curiosity and a drive to create safe and robust digital environments.
+Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Penetration Tester. My journey in cybersecurity is fueled by curiosity and a drive to create safe and robust digital environments.
 </p>
   <br>
   <br>
@@ -50,6 +50,6 @@ Technologies: Web security, Network security, vulnerability assessment
 ⚡ Fun Fact:
 </h2>
 <p style="font-size: 16px;">
-When I'm not debugging code or exploiting vulnerabilities, you'll find me tackling CTF challenges, experimenting with new scripts, or continuously learning advanced techniques to stay ahead in the ever-evolving world of cybersecurity. 😊
+When I’m not exploiting vulnerabilities or tackling CTF challenges, I stay ahead in cybersecurity by exploring new tools and diving into the latest research.😊
 </p>
 </div>
