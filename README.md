@@ -1,7 +1,7 @@
 <div align="center">
 <h1 style="color: white; font-weight: bold; margin: 10px;" >👋 Hi, I’m Haileamlak!</h1>
 <p style="font-size: 16px; margin:10px;">
-Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Penetration Tester. My journey in cybersecurity is fueled by curiosity and a drive to create safe and robust digital environments.
+Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast and Penetration Tester. My journey in cybersecurity is fueled by curiosity and a drive to create safe and robust digital environments.
 </p>
   <br>
   <br>
@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I’m a Cybersecurity Enthusiast, Penetration Test
 </p>
 
 <p style="font-size: 16px;">
-💻 Currently Working On: Penetration Testing, CTF challenges, and security research
+💻 Currently Working On: Penetration Testing, CTF challenges, Advancing my skills through hands-on learning
 </p>
 
 <p style="font-size: 16px;">
-🎯 Goal: To enhance my skills in ethical hacking and contribute to the cybersecurity community
+🎯 Goal: To enhance my skills in Penetration Testing, ethical hacking and contribute to the cybersecurity community
 </p>
   <br>
   <br>
