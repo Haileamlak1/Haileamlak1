@@ -41,7 +41,7 @@ Technologies: Web security, Network security, vulnerability assessment
 
 <p style="font-size: 16px;">
 📧 <span style="font-size: 16px;" >haileamlak323@gmail.com</span><br>
-💼 <a href="https://www.linkedin.com/in/haileamlak-sahle-80986b269" target="_blank" style="font-size: 16px;">Linkedin</a>
+💼 <a href="https://www.linkedin.com/in/haileamlaksahle" target="_blank" style="font-size: 16px;">Linkedin</a>
 </p>
   <br>
   <br>
